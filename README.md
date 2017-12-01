@@ -1,5 +1,6 @@
 # task-application
 
+https://github.com/l-georgieva/task-solution
 
 -Изграждане на back-end с Java Enterprise Edition (Java EE) и framework - JSP, заедно с  интеграция с бази данни JDBC и работна рамка Java Persistence API (JPA)
 -програмен модел MVC (model-view-controller) с контролери (анотирани с @Controller класове) и изгледи (с JSP).
